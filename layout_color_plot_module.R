@@ -2,6 +2,10 @@
 # library(shinycssloaders) # needed to add a spinner to the plot
 # library(varhandle) # contains check.numeric function
 
+
+######## THIS HAS MODIFICATIONS FROM THE ORIGINAL DO NOT USE THIS FILE!!!! #######
+# propagate from something that is actually working. 
+# such as the upload_and_plot_layout project and app
 # UI for color plots
 selectLayoutColorUI <- function(id) {
   tagList(
